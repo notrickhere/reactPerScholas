@@ -1,0 +1,18 @@
+body{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  background-image: url('https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/305050/e1cf53bd052e54121407a74b3bdf391d938f41ae.jpg');
+  background-size: cover;
+}
+.App {
+  text-align: center;
+  border: solid salmon;
+  background-color: lemonchiffon;
+  
+  width: 100%;
+}
+img {
+  width: 1500px;
+}
+
